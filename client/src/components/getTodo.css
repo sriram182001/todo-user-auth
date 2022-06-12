@@ -1,0 +1,25 @@
+.GetTodo{
+    background-color: black;
+    color: white;
+    padding-bottom: 100%;
+}
+.btn-btn{
+    background-color: red;
+    width: 50px;
+    border-radius: 50%;
+    color: greenyellow;
+    
+}
+.tasks{
+    background-color:darkblue;
+    color:black;
+    border-radius: 20px;
+}
+.para{
+   border-top: 10px;
+   font-size: large;
+   padding-top: 30px;
+   font-size: larger;
+   color: azure;
+   
+}
